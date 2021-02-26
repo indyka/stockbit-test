@@ -9,13 +9,10 @@ LEFT JOIN user as parent on user.Parent = parent.ID
 ```
 
 ### 2. OMBD API Proxy
-Answers:
-
+Answers: https://github.com/indyka/stockbit-test/tree/master/omdb
 
 ### 3. Code refactoring
-Answers:
+Answers: https://github.com/indyka/stockbit-test/blob/master/code-refactor/index.js
 
-
-### 4. Logic Test: Anagram grouping
-Answers:
-
+### 4. Logic Test: anagram grouping
+Answers: https://github.com/indyka/stockbit-test/blob/master/anagram/index.js
